@@ -1,3 +1,2 @@
 #!/bin/bash
-Sudo chmod -R +iii / >> 11-directories_permissions
-echo Sudo chmod -R +iii /
+Sudo chmod -R +iii /
